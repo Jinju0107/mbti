@@ -1,0 +1,16 @@
+body {
+  background-color: #f6fcff;
+  background-image: url("../images/main_bg.jpg");
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+.character {
+  width: 100%;
+  max-width: 364px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block; 
+  /* img는 글자요소로 display를 사용하여 글자 ->블록 요소로 변경해줘야함. */
+  margin-bottom: 40px;
+
+}
